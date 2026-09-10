@@ -212,4 +212,3 @@ export default function decorate(block) {
   updateSlider();
 }
 
-
